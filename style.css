@@ -1,0 +1,27 @@
+h1, h2, h3, h4 {
+    color: red;
+}
+
+li {
+
+    color: rgba(48, 47, 47, 0.726);
+}
+.homepage-link, li span
+{
+font-size: 60px;
+}
+
+li span {
+color: rgba(48, 47, 47, 0.726);
+}
+a:any-link {
+    color: rgba(48, 47, 47, 0.726);
+}
+a:any-link {
+    text-decoration: none;
+
+}
+img {
+width: 400px;
+
+}
